@@ -5,7 +5,7 @@
 ### Login
 
 ```json
-# HTTP POST to https://leetcode.com/accounts/login/
+// HTTP POST to https://leetcode.com/accounts/login/
 {
     "login": "username",
     "password": "password",
